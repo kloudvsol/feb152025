@@ -3,3 +3,5 @@ my second line
 my change
 changes mae from local repo 
 change made second time from local
+
+change made from lacl to cehkc merge conflict 
